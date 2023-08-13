@@ -1,0 +1,14 @@
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\obj\Debug\net7.0\TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\obj\Debug\net7.0\TP1.AssemblyInfoInputs.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\obj\Debug\net7.0\TP1.AssemblyInfo.cs
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\obj\Debug\net7.0\TP1.csproj.CoreCompileInputs.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\bin\Debug\net7.0\TP1.exe
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\bin\Debug\net7.0\TP1.deps.json
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\bin\Debug\net7.0\TP1.runtimeconfig.json
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\bin\Debug\net7.0\TP1.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\bin\Debug\net7.0\TP1.pdb
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\obj\Debug\net7.0\TP1.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\obj\Debug\net7.0\refint\TP1.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\obj\Debug\net7.0\TP1.pdb
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\obj\Debug\net7.0\TP1.genruntimeconfig.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP1\obj\Debug\net7.0\ref\TP1.dll
